@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "123878703745",
+    "project_id": "demobook-7cc95",
+    "storage_bucket": "demobook-7cc95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123878703745:android:feacf65894cf765946c380",
+        "android_client_info": {
+          "package_name": "truong.poly.firebasebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123878703745-j96gb3qr7qd7lomd673rovjcajfshfla.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "truong.poly.firebasebook",
+            "certificate_hash": "f1948fc321a0bcfde35ca9c89dfaa75e1816faff"
+          }
+        },
+        {
+          "client_id": "123878703745-csrk0p9h5avlo4thrgbu3hb3pvof9gjv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAp7Zu0i27GwKEVuD1lPZk21UmlrwyA5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123878703745-csrk0p9h5avlo4thrgbu3hb3pvof9gjv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
